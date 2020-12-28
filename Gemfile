@@ -14,7 +14,7 @@ gem 'rack-contrib'
 # see https://github.com/resque/resque/issues/934
 gem 'sinatra',              '~> 1.4', require: 'sinatra/base'
 gem 'sinatra-contrib',      '~> 1.4'
-gem 'rubyzip',              '~> 1.1'
+gem 'rubyzip',              '~> 1.3'
 
 gem 'connection_pool',      '~> 2.2'
 gem 'sidekiq',              '~> 3.5'
